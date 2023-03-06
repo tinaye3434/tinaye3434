@@ -1,4 +1,4 @@
-### Hi there 👋
+<a href="https://app.daily.dev/tinaye34"><img src="https://api.daily.dev/devcards/6dc502af3dc54844b901bff391faf2c7.png?r=gzt" width="400" alt="Tinaye Katemba's Dev Card"/></a>
 
 <!--
 **tinaye3434/tinaye3434** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
